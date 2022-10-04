@@ -8,4 +8,4 @@ me estoy cagando
 yo no, solo me meo
 esta noche una vladimir y a dormir
 
-eso a cada uno q haga lo q quiera :)
+eso ya cada uno q haga lo q quiera :)
