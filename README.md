@@ -20,3 +20,7 @@ But Maria no
 COMO MOLA
 
 yeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+
+vale, ya puedo hacer lo que me de la gana.
+Maria, cuando leas esto ya habré acabado.
+Sabes algo de Hector?
