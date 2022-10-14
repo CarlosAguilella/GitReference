@@ -22,6 +22,10 @@ sirve para mezclar ramas2
 
 sirve para mezclar ramas2
 
+## git merge4
+
+sirve para mezclar ramas2
+
 ## git noseque
 
 sirve para noseque
