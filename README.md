@@ -1,3 +1,3 @@
 # GitReference
 
-Guía 2
+Guia de referencia de git
