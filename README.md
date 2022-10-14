@@ -12,3 +12,7 @@ sirve para ver el status
 ## git merge
 
 sirve para mezclar ramas
+
+## git merge2
+
+sirve para mezclar ramas2
