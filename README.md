@@ -5,6 +5,7 @@ Guia de referencia de git
 ## git commit
 
 sirve para hacer commits
+
 ## git status
 
 sirve para ver el status
@@ -16,3 +17,7 @@ sirve para mezclar ramas
 ## git merge2
 
 sirve para mezclar ramas2
+
+## git noseque
+
+sirve para noseque
