@@ -28,6 +28,15 @@ el que trabajar sin alterar el programa principal.
 git branch
 ```
 
+
+## git bisect
+
+`git bisect` significa partir por la mitad y es justamente lo que va a hacer este comando: ir dividiendo toda la pila de commits en dos partes, una parte de la pila contendrá el error y otra parte no. Aunque algo así lo podríamos hacer de forma manual con git checkout esta herramienta es mucho más eficiente.
+
+```
+git bisect
+```
+
 ## git checkout  (-b)
 
 El comando `git checkout` sirve para "actualizar" la rama main
@@ -41,13 +50,21 @@ git checkout -b
 git merge
 git rebase
 git cherry-pick
+## git switch
+
+`git switch` para cambiar entre ramas y poder crearlas si no existen. 
+
+```
 git switch
-## git tag
+```
+
+## git switch
 
 `git tag` sirve básicamente como una rama firmada que no permuta, es decir, siempre se mantiene inalterable. Sencillamente es una cadena arbitraria que apunta a un commit específico. Puede decirse que un tag es un nombre que puedes usar para marcar un punto específico en la historia de un repositorio.
 
 ```
-git tag```
+git tag
+```
 
 ## git bisect
 
