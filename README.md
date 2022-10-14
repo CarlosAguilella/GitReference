@@ -21,3 +21,7 @@ sirve para mezclar ramas2
 ## git noseque
 
 sirve para noseque
+
+## git noseque2
+
+sirve para noseque
