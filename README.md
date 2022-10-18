@@ -47,9 +47,30 @@ actualizarla con la rama Juanito, el comando seria git checkout -b Juanito.
 git checkout -b
 ```
 
+## git merge
+
+El comando `git merge` sirve para fusionar la rama actual (en la que nos encontremos trabajando) y la rama seleccionada, por ejemplo: Si estamos en la rama master y deseamos implementar los cambios de la rama Parche emplearemos el comando git merge parche.
+
+```
 git merge
+```
+
+## git rebase
+
+El comando `git rebase` se emplea para "actualizar" la master(o la base) del programa actual tras diferentes merge a lo largo de la vida del programa. Esto se hace para mejorar la visualización del programa.
+
+```
 git rebase
+```
+
+## git cherry-pick
+
+El comando `git cheerry-pick` aplica los cambios introducidos en un merge anterior, es decir, si hemos realizado algun cambio en el master o rama del programa y decidimos descartar los cambios, podemos restaurar los cambios implementados anteriormente en algun git merge.
+
+```
 git cherry-pick
+```
+
 ## git switch
 
 `git switch` para cambiar entre ramas y poder crearlas si no existen. 
